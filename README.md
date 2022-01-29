@@ -1,2 +1,2 @@
 # hello-world
-setting up CircleCi
+setting up CircleCi as practice
